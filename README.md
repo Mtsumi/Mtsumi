@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Mtsumi
+- I am an AWS Certified Cloud Practicioner
 - 👀 I’m interested in ... Back end development with OOP, DevOps and server configuration
 - 🌱 I’m currently learning ... Javascript, Node JS, TypeScript
 - 💞️ I’m looking to collaborate on ... Python Flask, Configuration with Ansible, AWS Cloud Projects 
