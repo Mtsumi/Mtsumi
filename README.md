@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @Mtsumi
 - I am an AWS Certified Cloud Practicioner
 - 👀 I’m interested in ... Back end development with OOP, DevOps and server configuration
-- 🌱 I’m currently learning ... Javascript, Node JS, TypeScript
+- 🌱 I’m currently learning ... ** Node JS, TypeScript, Express, React.js **
 - 💞️ I’m looking to collaborate on ... Python Flask, Configuration with Ansible, AWS Cloud Projects 
 - 📫 How to reach me ... Phone +254-712-531-490 email mtsumijr@gmail.com
 - 🔭 I’m currently working on an e-Commerce Project called ** e-Mali **
-- 🌱 I’m currently learning **React JS** and **Express**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
