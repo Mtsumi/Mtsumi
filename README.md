@@ -1,11 +1,11 @@
 - 👋 Hi, I’m <a href="https://www.aly-mtsumi.tech">Mtsumi</a>
 - I am a FullStack Developer at Revolution Analytics.
 - I am an AWS Certified Cloud Practicioner
-- 👀 I’m interested in ... Back end development with OOP, DevOps and server configuration
-- 🌱 I’m currently learning ... __ Node JS, TypeScript, Express, React.js __
-- 💞️ I’m looking to collaborate on ... Python Flask, Configuration with Ansible, AWS Cloud Projects 
+- 👀 I’m interested in ... Back end development with Python and JavaScript, DevOps and server configuration
+- 🌱 I’m currently learning ... __ TypeScript, React.js, Azure hosting __
+- 💞️ I’m looking to collaborate on ... Python Flask, FASTAPI, Django, Azure Hosting, AWS Cloud Projects 
 - 📫 How to reach me ... Phone +254-712-531-490 email mtsumijr@gmail.com
-- 🔭 I’m currently working on an e-Commerce Project called ** e-Mali **
+- 🔭 I’m currently working on a tendering system for a client at Revolution Analytics.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
