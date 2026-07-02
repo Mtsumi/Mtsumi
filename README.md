@@ -2,7 +2,7 @@
 
 - ⚙️ Full-Stack Developer | CTO at [Element Pay](https://www.elementpay.net)
 - 🌍 Co-founder of [Element Pay](https://www.elementpay.net) — Web3 on/off-ramp enabling USDC ↔ M-PESA micropayments across Africa
-- 🐾 Co-founder of [isafari](https://www.isafariapp.com) — wildlife tracking & identification app
+- 🐾 Co-founder of [iSafari](https://www.isafariapp.com) — wildlife tracking & identification app
 - ☁️ AWS Certified Cloud Practitioner | Experienced with Azure, Docker, and cloud-native workflows
 - 🔧 Specialized in backend development with **Python (FastAPI, Flask, Django)** and **JavaScript/Node.js**
 - 🤖 Building automation systems with [Schaub Technology](https://schaubtechnology.com)
