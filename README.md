@@ -1,15 +1,15 @@
 # 👋 Hi, I’m Aly Mtsumi
 
-- ⚙️ I’m a Full-Stack Developer
-- 🌍 Co-founder of **Element Pay**, a Web3 on/off-ramp enabling USDC ↔ M-PESA micropayments across Africa: https://www.elementpay.net
-- Co-Founder of isafari: https://www.isafariapp.com
-- ☁️ AWS Certified Cloud Practitioner | Azure Developer (in progress)
-- 🔧 I specialize in backend development with **Python (FastAPI, Flask, Django)** and **JavaScript/Node.js**
-- 🌱 Currently learning **TypeScript**, **React.js**, and **smart contract integration** with Web3.py & Solidity
-- 🧠 Passionate about building practical tools for emerging markets using AI and blockchain
+- ⚙️ Full-Stack Developer | CTO at [Element Pay](https://www.elementpay.net)
+- 🌍 Co-founder of [Element Pay](https://www.elementpay.net) — Web3 on/off-ramp enabling USDC ↔ M-PESA micropayments across Africa
+- 🐾 Co-founder of [isafari](https://www.isafariapp.com) — wildlife tracking & identification app
+- ☁️ AWS Certified Cloud Practitioner | Experienced with Azure, Docker, and cloud-native workflows
+- 🔧 Specialized in backend development with **Python (FastAPI, Flask, Django)** and **JavaScript/Node.js**
+- 🤖 Building automation systems with [Schaub Technology](https://schaubtechnology.com)
+- 📊 Property data scraping & analysis with [Montreal Living](https://montrealliving.info/en/)
+- 🧠 Passionate about practical tools for emerging markets using AI and blockchain
 - 🤝 Open to collaboration on: **Python backends**, **Web3 integrations**, **DevOps**, and **cloud-based apps**
-- 📫 Reach me at: `mtsumijr@gmail.com` | +254 712 531 490
-- 🔭 Now building: A crypto–fiat payments engine at Element Pay & a financial analysis platform at Revolution Analytics
+- 📫 Reach me at: `mtsumijr@gmail.com`
 
 
 <h3 align="left">Connect with me:</h3>
