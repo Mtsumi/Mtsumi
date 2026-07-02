@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Aly Mtsumi
 
-- ⚙️ I’m a Full-Stack Developer at **Revolution Analytics**
-- 🌍 Co-founder of **Element Pay**, a Web3 on/off-ramp enabling USDC ↔ M-PESA micropayments across Africa
+- ⚙️ I’m a Full-Stack Developer
+- 🌍 Co-founder of **Element Pay**, a Web3 on/off-ramp enabling USDC ↔ M-PESA micropayments across Africa: https://www.elementpay.net
+- Co-Founder of isafari: https://www.isafariapp.com
 - ☁️ AWS Certified Cloud Practitioner | Azure Developer (in progress)
 - 🔧 I specialize in backend development with **Python (FastAPI, Flask, Django)** and **JavaScript/Node.js**
 - 🌱 Currently learning **TypeScript**, **React.js**, and **smart contract integration** with Web3.py & Solidity
